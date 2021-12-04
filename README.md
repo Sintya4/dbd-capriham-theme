@@ -31,6 +31,7 @@ const Dashboard = new DBD.Dashboard({
     theme: CaprihamTheme({
         websiteName: "Assistants",
         iconURL: 'https://assistants.ga/ac_logo_v6.png',
+        footer: "Footer Website",
         index: {
             card:{
                 title: "Assistants - The center of everything",
