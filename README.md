@@ -8,7 +8,7 @@ npm i dbd-capriham-theme
 ```
 or 
 ```
-npm i https://github.com/Sintya4/dbd-capriham-theme.git
+npm i github:Sintya4/dbd-capriham-theme
 ```
 
 # Docs
