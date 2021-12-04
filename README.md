@@ -6,6 +6,10 @@ Discord-dashboard free theme.
 ```
 npm i dbd-capriham-theme
 ```
+or 
+```
+npm i https://github.com/Sintya4/dbd-capriham-theme.git
+```
 
 # Docs
 
